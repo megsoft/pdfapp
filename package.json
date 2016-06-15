@@ -1,0 +1,23 @@
+{
+  "name": "my-testapp",
+  "version": "0.0.0",
+  "description": "MyTestapp",
+  "main": "app.js",
+  "author": {
+    "name": "megsoft11",
+    "email": ""
+  },
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "embeddedjs-loader": "^1.0.0",
+    "express": "3.4.4",
+    "jade": "*",
+    "jsrender": "^0.9.76",
+    "jsreport": "^0.13.5",
+    "stylus": "*",
+    "wkhtmltopdf": "^0.3.1"
+  },
+  "devDependencies": {
+    "embeddedjs-loader": "^1.0.0"
+  }
+}
